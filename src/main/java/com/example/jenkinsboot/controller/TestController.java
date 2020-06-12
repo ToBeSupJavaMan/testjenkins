@@ -15,7 +15,7 @@ public class TestController {
     @RequestMapping("/hello")
     @ResponseBody
     private String test(){
-        return "hello world1";
+        return "hello world";
     }
 
 }
